@@ -1,0 +1,6 @@
+{
+  "name": "Evergreen Urdu Business Guide & TTS Studio",
+  "description": "کبھی نہ بند ہونے والے ۶ کاروباری آئیڈیاز کا مکمل آڈیو و تحریری گائیڈ مع اسٹوڈیو گریڈ اردو ٹیکسٹ ٹو اسپیچ (Gemini 3.8 Flash TTS)",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
